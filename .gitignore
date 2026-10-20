@@ -1,0 +1,14 @@
+# Internal notes and the proposal (not for the public repo)
+*.pdf
+WEBSITE_PLAN.md
+.claude/
+
+# Logo drafts; the site uses assets/logo.svg
+assets/logo-drafts/
+
+# Original photos; the site uses the resized copies
+assets/img/Mingwei.jpg
+assets/img/ming-li.png
+assets/img/yingchen.jpg
+
+.DS_Store

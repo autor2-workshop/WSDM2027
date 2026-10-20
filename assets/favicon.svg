@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- research loop from the AutoR² wordmark, sized for browser tabs -->
+  <path d="M46 12 A24 24 0 1 1 18 12" fill="none" stroke="#222" stroke-width="9" stroke-linecap="round"/>
+  <path d="M28 4 L12 4 L19 19 Z" fill="#222"/>
+</svg>
