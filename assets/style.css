@@ -211,6 +211,8 @@ h3 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .keynote + .keynote { border-top: 1px solid var(--border); }
 .keynote .avatar { flex: none; margin: 0; width: 140px; height: 140px; }
 .keynote-body h2 { margin: 0; }
+.keynote-body h2 a { text-decoration: none; }
+.keynote-body h2 a:hover { text-decoration: underline; }
 .keynote-body .aff { margin: 0.1rem 0 0.75rem; font-size: 1rem; }
 @media (max-width: 600px) {
   .keynote { flex-direction: column; align-items: center; }
