@@ -14,3 +14,6 @@ assets/img/ref.png
 assets/img/Lizhu.jpg
 
 .DS_Store
+
+# Source for assets/img/social-card.jpg (render with headless Chrome at 1200x630)
+social-card-template.html
